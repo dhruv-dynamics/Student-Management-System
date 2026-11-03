@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 20,
+      "major": "Computer Science"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 22,
+      "major": "Mathematics"
+    },
+    {
+      "name": "Afzal",
+      "email": "afzal1@gmail.com",
+      "phone": "8618965472",
+      "age": 50,
+      "gender": "Female",
+      "course": "M.Tech",
+      "major": "M.Tech",
+      "rollNo": "23eread8",
+      "address": "151/54",
+      "enrollDate": "2026-10-12",
+      "status": "Active",
+      "id": "36d1XWHiRD0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
